@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+gen3-metadata
 
 # C extensions
 *.so
