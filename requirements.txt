@@ -1,3 +1,6 @@
 gen3
 python-dotenv
 ipykernel
+matplotlib
+seaborn
+lifelines
